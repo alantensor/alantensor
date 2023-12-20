@@ -1,5 +1,4 @@
-### Hey, I'm Alan 👋
----
+## Hey, I'm Alan 👋
 
 A bit about me:
 * First year student at the University of British Columbia
